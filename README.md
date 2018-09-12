@@ -1,6 +1,6 @@
 # Learn to Code: Introduction to Python
 
-Brought to you by Galvanize. Learn more about the way we teach code at [galvanize.com](http://galvanize.com).
+Brought to you by Galvanize. Learn more about the way we teach at [galvanize.com](http://galvanize.com).
 
 Get to this repo by typing in URL: **py.sage.codes**
 
@@ -67,50 +67,61 @@ Give a quick Intro!
 
 ### A very brief history
 
-Created by Brendan Eich in 1995 in ONLY 10 days during his time at Netscape Communications.
+Created by Guido van Rossum and released in 1991.
 
-A lot of updates have happened of course since then, but its still fun to see some of the [quirks](https://www.destroyallsoftware.com/talks/wat) still in the language!
+Python is Known ease of learning, code readability (must use code indents), and a massive ecosystem of libraries that easily expand its usefeullness is many fields.
 
-Read more about the history of JavaScript [here](https://en.wikipedia.org/wiki/JavaScript).
+Read more about the history of Python [here](https://en.wikipedia.org/wiki/Python_(programming_language)).
 
-Javascript is often used with HTML and CSS to create dynamic web pages. 
 
 ### Who uses Python?
 
-Almost everyone!
+A lot of places do!
 
 - Large Companies (Google, Facebook)
 - Startups
 - Agencies
-- Pretty much anyone using web technology 
-
+- Majority of companies doing data science 
 
 ### What can you do with Python
 
 - Web Development
-	- Front-End
-	- Back-End
+	- Back-End (frameworks: Django, Flask, more)
 - Mobile Development 
-- [Machine learning](https://js.tensorflow.org/) 😱
-- [Embedded(Hardware) Programming](http://ejs.co/) 😲
+- Data Science and AI
+	- Data Analysis
+	- Machine Learning
+	- Deep Learning
+	- Computer Vision
+	- Natural Language Processing
+- [Embedded(Hardware)](https://micropython.org/)
+- Devops
 
-#### Popular Frameworks to keep in mind
+#### Popular Frameworks and libraries to keep in mind
 
-When learning more about JS you'll probably keep learning about these!
+When learning more about Python you'll probably see someo of these pop up as you continue to study
 
-- Node
-- Express
-- React
-- Angular
-- Vue
+- Web
+	- Django
+	- Flask
+	- pyramid
+
+
+- Data Science
+	- Tensorflow
+	- Keras
+	- Numpy
+	- Pandas 
+
+*Note*: if you're thinking of exploring data science with python look into using [Anaconda](https://www.anaconda.com/) to manage your python and data libraries
 
 
 ## Python Basics:
 
 ### Data Types:
-We're going to stick with the basics, so We wont be going over EVERY data type in javascript, but you you can read a more comprehensive list [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures).  
+We're going to stick with the basics, so We wont be going over EVERY data type in Python, but you you can read a more comprehensive list [here](https://docs.python.org/3/library/stdtypes.html#dict).  
 
-Feel free to try these code samples out in your developer console(I'll show you how) or your repl!
+Feel free to try these different data types out in your code!
 
 #### Numbers:
 
@@ -131,13 +142,15 @@ Strings can be a collection of letters, symbols and/or numbers. They are made by
 `"Hello, World."`
 `"CrAzy Random String 987879896jvdjvda &&(&(@*(*"`
 
+can use double: ", Single ' or tripple(3 singles) ''' quotes for strings.
+
 Can we add strings together? Try it out!
 
 
 #### Booleans:
 You can think of Booleans as yes(true) and no(false)
 
-`true` `false`
+`True` `False`
 
 We'll go into how to use these in a little bit. For now just remember they exist!
 
@@ -153,17 +166,16 @@ This is super useful! You can then receive or update the variable in your progra
 
 Think of it as naming a piece of data.
 
-We're going to define our variable using the keyword `var`. Its very common to see variables not defined using the newer keywords `let` or `const`. We won't go into the differnces in this workshop but you can read more about `let` & `const` [here](https://medium.com/javascript-scene/javascript-es6-var-let-or-const-ba58b8dcde75). For now just remember that `var` means we're creating a new variable.
+its common in programming languages to have a keyword before the variable such as `var` or `int`, but python does not need this. 
 
-
-- `var twitter = "@sagecodes";`
-- `var score = 0;`
+- `twitter = "@sagecodes";`
+- `score = 0;`
 
 
 ## Comparison Operators:
 Comparison Operators are used quite frequently in programming. Its a great way to compare and use data.
 
-Again we won't cover ALL of the comparison operators in this workshop, but you can see a full list of them [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Expressions_and_Operators)
+Again we won't cover ALL of the comparison operators in this workshop, but you can see a full list of them [here](https://docs.python.org/3/library/stdtypes.html#comparisons)
 
 - `==` Equal
 - `!=` Not Equal
@@ -175,7 +187,7 @@ Again we won't cover ALL of the comparison operators in this workshop, but you c
 Example:
 
 `current_score >= highest_score`
-This would return a boolean value. Depending on the values of these variables this would return either `true` or `false`. Try it in your console using numbers instead of variables!
+This would return a boolean value. Depending on the values of these variables this would return either `True` or `False`. Try it in your console using numbers instead of variables!
 
 
 ## Functions
@@ -187,9 +199,8 @@ Example:
 This function takes in two arguments(a, b) and returns the value of them added together. 
 
 ```
-function add(a, b) {
-	return a + b; 
-};
+def add(a, b):
+	print(a + b)
 ```
 to use the function call it by writing its name and open/close parenthesis(). With arguments passed inside the parenthesis():
 
@@ -208,19 +219,19 @@ When writing a program you'll often want to check if data meets a certain condit
 Example:
 
 ```
-if (guess == answer) {
-    message = "You Win!";
-} else if (guess < answer) {
-    message = "Your guess is too low!";
-} else if (guess > answer){
-    message = "your guess is too high!";
-} else {
-	message = "I think you entered something wrong...";
-}
+ if guess == answer:
+      message = "You Win!"
+  elif guess < answer:
+      message = "Your guess is too low!"
+  elif guess > answer:
+      message = "your guess is too high!";
+  else:
+    message = "I think you entered something wrong..."
+
 ```
 
 ## Loops
-We're going to go over some of the basic loops in javascript, but yet again we're not going to cover everything, so you may want to read more about loops [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Loops_and_iteration).
+We're going to go over some of the basic loops in javascript, but yet again we're not going to cover everything, so you may want to read more about loops [here](https://www.learnpython.org/en/Loops).
 
 Loops are used when you want to repeat something. You can repeat the exact same thing, or change some variable and repeat the action again.
 
@@ -250,16 +261,13 @@ while (i == 1) {
 ```
 
 
-## Interact with dialog boxes
-using dialog boxes can be simple way to get started interacting with users.
+## Interact with users
 
-Alert: Pop up information in a dialog box
+Getting input from the command line can be useful.
 
-`alert("Hello, I'm a pop up");`
- 
-Prompt: get information from a user in dialog box
+To do that we will use the `input` function. And we want to assign that input to a variable.
 
-`prompt("I'm a pop up you can type in!")`
+`guess = input("enter guess")`
 
 
 ## Lets do some code!
@@ -293,6 +301,7 @@ What are some ideas for improvements?
 
 ### Keep learning!
 
+Resources:
 
 
 ## What is Galvanize?
