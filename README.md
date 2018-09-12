@@ -242,24 +242,51 @@ two common types of loops are `for` and `while`.
 
 Example:
 
-This `for` loop will run 5 times, and print out the value of `i` to the console. 
+This `for` loop will run 5 times, and print out the value of `x` to the console. 
+
+for loop:
 
 ```
-var i;
-for (i = 1; i <= 5; i++) {
-    console.log(i)
-}
+for x in range(5):
+    print(x)
 ```
 
-If `i` were set to 1 it would run this loop and print the string until the value of `i` changed. If you run this in your browser it will probably crash it!
+For loops are often used to loop through variables containing lists and dicts to get the individual values stored in them. 
+
+Try running these:
+```
+arr = [1,"hi",6,6]
+for x in arr:
+    print(x)
+```    
+```    
+word = "Hello"
+arr = [1,"hi",6,6]
+for x in word:
+    print(x)
+```
 
 ```
-var i = 0;
-while (i == 1) {
-    console.log("I will crash your browser")
-}
+word = {'Hello',6, 0,"hello" }
+for x in word:
+    print(x)
 ```
 
+read more on for loops [here](https://www.w3schools.com/python/python_for_loops.asp)
+
+
+
+while loop:
+
+```
+count = 1
+while count <= 5:
+    print(count)
+    count += 1  # This is the same as count = count + 1
+```
+
+
+read more on while loops [here](https://www.w3schools.com/python/python_while_loops.asp)
 
 ## Interact with users
 
