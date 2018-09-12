@@ -1,15 +1,15 @@
-# Learn to Code: Introduction to JavaScript
+# Learn to Code: Introduction to Python
 
 Brought to you by Galvanize. Learn more about the way we teach code at [galvanize.com](http://galvanize.com).
 
-Get to this repo by typing in URL: **jsrepo.sage.codes**
+Get to this repo by typing in URL: **py.sage.codes**
 
 ## Overview
-The goal of this brief course is to provide you with a fun introduction to the world of web development with Javascript.
+The goal of this brief course is to provide you with a fun introduction to the world of development with Python.
 
 #### Here's what we'll be doing:
-* Overview of basic JavaScript concepts
-* Building a simple application using javascript
+* Overview of basic Python and programming concepts
+* Building a simple application using Python
 * Playing around and break things
 
 
@@ -33,7 +33,7 @@ Well... that was easy!
 
 ## What this workshop is
 
-A super friendly introduction to JavaScript No previous experience expected! 
+A super friendly introduction to Python No previous experience expected! 
 
 You can't learn EVERYTHING in ~2 hours. But you can learn enough to get excited and comfortable to keep working and learning on your own! Come to our almost weekly code hours [meetups](https://www.meetup.com/Learn-Code-Seattle/events/) to ask questions if you get stuck and show off what you've been working on!
 
@@ -63,7 +63,7 @@ Give a quick Intro!
 - Whats your background?
 - Why are you interested in JavaScript?
 
-## What is javaScript?
+## What is Python?
 
 ### A very brief history
 
@@ -75,7 +75,7 @@ Read more about the history of JavaScript [here](https://en.wikipedia.org/wiki/J
 
 Javascript is often used with HTML and CSS to create dynamic web pages. 
 
-### Who uses javaScrip?
+### Who uses Python?
 
 Almost everyone!
 
@@ -85,7 +85,7 @@ Almost everyone!
 - Pretty much anyone using web technology 
 
 
-### What can you do with JavaScript
+### What can you do with Python
 
 - Web Development
 	- Front-End
@@ -105,7 +105,7 @@ When learning more about JS you'll probably keep learning about these!
 - Vue
 
 
-## JavaScript Basics:
+## Python Basics:
 
 ### Data Types:
 We're going to stick with the basics, so We wont be going over EVERY data type in javascript, but you you can read a more comprehensive list [here](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures).  
@@ -140,6 +140,11 @@ You can think of Booleans as yes(true) and no(false)
 `true` `false`
 
 We'll go into how to use these in a little bit. For now just remember they exist!
+
+
+#### Lists (Arrays)
+
+#### Dictionary
 
 
 ## Variables:
