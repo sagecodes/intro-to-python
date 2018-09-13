@@ -353,6 +353,11 @@ What are some ideas for improvements?
 
 Resources:
 
+- [w3schools](https://www.w3schools.com/python/default.asp) | Free
+- [Datacamp](https://www.datacamp.com/courses/intro-to-python-for-data-science) | Free
+- [codecademy: learn-python](https://www.codecademy.com/learn/learn-python) | Free
+- [Treehouse: Learn Python Track](https://teamtreehouse.com/tracks/learn-python) | Paid
+- [Udacity Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) | Free
 
 ## What is Galvanize?
 ###### We are a community!
@@ -362,9 +367,6 @@ Resources:
  
 We host sooo many events! check out out [calendar](https://www.galvanize.com/seattle/events)
 
-- [Code Hours](https://www.meetup.com/Learn-Code-Seattle/events/mnlqdqyxmbpb/) - Tuesday, September 11, 2018 6:30 PM to 8:30 PM
-- [Learn to Code Workshop: Intro to Python
-](https://www.meetup.com/Learn-Code-Seattle/events/253466303/) - Wednesday, September 12, 2018 6:30 PM to 8:30 PM
 - [Learn to Code Workshop: Intro to Git and GitHub](https://www.meetup.com/Learn-Code-Seattle/events/253466429/) - Wednesday, September 19, 2018 6:30 PM to 8:30 PM
 - [Code Hours](https://www.meetup.com/Learn-Code-Seattle/events/mnlqdqyxmbhc/) - Tuesday, September 25, 2018 6:30 PM to 8:30 PM
 - [Learn to Code Workshop: Intro to HTML & CSS](https://www.meetup.com/Learn-Code-Seattle/events/253466466/) - Thursday, September 27, 2018 6:30 PM to 8:30 PM
