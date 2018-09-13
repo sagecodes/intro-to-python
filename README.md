@@ -351,7 +351,9 @@ What are some ideas for improvements?
 
 ### Keep learning!
 
-Resources:
+[PuPPy](https://www.meetup.com/PSPPython/) is an awesome python group in Seattle! 
+
+More learning resources:
 
 - [w3schools](https://www.w3schools.com/python/default.asp) | Free
 - [Datacamp](https://www.datacamp.com/courses/intro-to-python-for-data-science) | Free
