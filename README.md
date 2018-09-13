@@ -319,6 +319,12 @@ To do that we will use the `input` function. And we want to assign that input to
 
 `guess = input("enter guess")`
 
+Print will output text to the terminal
+
+```
+guesses = 5
+print("Guess the random number between 1 & 10. you have {} guesses!".format(guesses))
+```
 
 ## Lets do some code!
 You just learned a lot! Lets put it together and build something!
@@ -335,7 +341,7 @@ We're going to build a number guessing game using:
 - functions
 - dialog boxes
 
-If you get stuck or want to look ahead at the completed project you can view it [here](https://repl.it/@SageElliott/GuessingGame).
+If you get stuck or want to look ahead at the completed project you can view it [here](https://repl.it/@SageElliott/pythonGuessingGame).
 
 What are some ideas for improvements? 
 
