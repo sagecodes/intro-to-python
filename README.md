@@ -157,7 +157,29 @@ We'll go into how to use these in a little bit. For now just remember they exist
 
 #### Lists (Arrays)
 
-#### Dictionary
+Often used to store a list of values.
+
+```
+tvshows = ['West World','Mr. Robot', 'Game of Thrones']
+print(tvshows)
+```
+
+read more about python lists[here](https://www.w3schools.com/python/python_lists.asp).
+
+
+#### Dictionary (Dict)
+
+Dictionaries can also be used to store values, but they are indexed. 
+
+person =	{
+  "name": "Bob",
+  "age": 50,
+  "occupation": 'programmer'
+}
+print(person)
+print(person['name'])
+
+read more about python dictionaries[here](https://www.w3schools.com/python/python_dictionaries.asp).
 
 
 ## Variables:
@@ -267,9 +289,10 @@ for x in word:
 ```
 
 ```
-word = {'Hello',6, 0,"hello" }
-for x in word:
-    print(x)
+info = {'name': 'sage', 
+        'language':"python" }
+for x in info:
+    print(info[x])
 ```
 
 read more on for loops [here](https://www.w3schools.com/python/python_for_loops.asp)
