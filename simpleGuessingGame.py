@@ -13,6 +13,7 @@ while True:
 		guess = int(guess)
 	except:
 		print("Thats not a whole number! Your guess must be a single digit between 1 & 10.")
+        
 
 
 	if guess == number:
