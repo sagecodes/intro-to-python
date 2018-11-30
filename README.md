@@ -6,9 +6,10 @@ Get to this repo by typing in URL: **py.sage.codes**
 
 ### FAQ: 
 
-- WIFI: `Galvanize Guest Seattle` (no password)
+- WIFI: `Galvanize Guest Seattle` | Password: beapineapple
 - Bathrooms: Behind you down the hall to the left
 - Kitchen outside back classroom door with Coffee & Tea!
+- Snacks + water in back of room
 
 ## Overview
 The goal of this brief course is to provide you with a fun introduction to the world of development with Python.
@@ -41,7 +42,7 @@ Well... that was easy!
 
 A super friendly introduction to Python No previous experience expected! 
 
-You can't learn EVERYTHING in ~2 hours. But you can learn enough to get excited and comfortable to keep working and learning on your own! Come to our almost weekly code hours [meetups](https://www.meetup.com/Learn-Code-Seattle/events/) to ask questions if you get stuck and show off what you've been working on!
+You can't learn EVERYTHING in ~2 hours. But you can learn enough to get excited and comfortable to keep working and learning on your own! 
 
 - This course is for absolute beginners
 - Ask Questions!
@@ -53,7 +54,7 @@ You can't learn EVERYTHING in ~2 hours. But you can learn enough to get excited 
 
 
 ## About me:
-Hello I'm [Sage Elliott](http://sageelliott.com/). I'm a Technology Evangelist here at Galvanize! Previously I've worked as a software and hardware engineer with Startups and Agencies in Seattle, WA and Melbourne, FL. I love technology! I'm currently learning more about building AI and VR projects. 
+Hello I'm [Sage Elliott](http://sageelliott.com/). I'm a Technology Evangelist here at Galvanize! Previously I've worked as a software and hardware engineer with Startups and Agencies in Seattle, WA and Melbourne, FL. I love technology! 
 
 - Website: [sageelliott.com](http://sageelliott.com/)
 - Twitter: [@sagecodes](https://twitter.com/@sagecodes)
@@ -67,11 +68,11 @@ Give a quick Intro!
 
 - Whats your name?
 - Whats your background?
-- Why are you interested in JavaScript?
+- Why are you interested in Python?
 
 ## What is Python?
 
-### A very brief history
+### A VERY brief history
 
 Created by Guido van Rossum and released in 1991.
 
@@ -111,13 +112,13 @@ When learning more about Python you'll probably see someo of these pop up as you
 	- Flask
 	- pyramid
 
-
 - Data Science
 	- Tensorflow
 	- Keras
 	- Numpy
 	- Pandas
 	- Scikit Learn
+	- OpenCV
 
 *Note*: if you're thinking of exploring data science with python look into using [Anaconda](https://www.anaconda.com/) to manage your python and data libraries
 
@@ -125,6 +126,20 @@ Also [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb#re
 
 
 ## Python Basics:
+
+### Printing
+`print("Hello, Galvanize")`
+
+### Variables:
+Variable are a way to store information.
+This is super useful! You can then receive or update the variable in your program. You'll see this later!
+
+Think of it as naming a piece of data.
+
+its common in programming languages to have a keyword before the variable such as `var` or `int`, but python does not need this. 
+
+- `twitter = "@sagecodes";`
+- `score = 0;`
 
 ### Data Types:
 We're going to stick with the basics, so We wont be going over EVERY data type in Python, but you you can read a more comprehensive list [here](https://docs.python.org/3/library/stdtypes.html#dict).  
@@ -190,16 +205,7 @@ print(person['name'])
 read more about python dictionaries[here](https://www.w3schools.com/python/python_dictionaries.asp).
 
 
-## Variables:
-Variable are a way to store information.
-This is super useful! You can then receive or update the variable in your program. You'll see this later!
 
-Think of it as naming a piece of data.
-
-its common in programming languages to have a keyword before the variable such as `var` or `int`, but python does not need this. 
-
-- `twitter = "@sagecodes";`
-- `score = 0;`
 
 
 ## Comparison Operators:
@@ -220,24 +226,9 @@ Example:
 This would return a boolean value. Depending on the values of these variables this would return either `True` or `False`. Try it in your console using numbers instead of variables!
 
 
-## Functions
-Reduce, Reuse, Recycle
-
-Functions make it easy to reuse code. If you find yourself repeating code you may want to turn it into a function!
-
-Example:
-This function takes in two arguments(a, b) and returns the value of them added together. 
-
-```
-def add(a, b):
-	print(a + b)
-```
-to use the function call it by writing its name and open/close parenthesis(). With arguments passed inside the parenthesis():
-
-- `add(5,5)` | output: 10
-- `add(2,5)` | output: 7
-
-In this simple example you're not saving a ton of code, but imagine a function that uses many lines of code! 
+## Spacing
+most of the upcoming examples you'll see parts of the code indented.
+This lets python know when blocks of code begin & end. I'll explain as we go through examples. Just remember that spacing is important and it can cause issues with your code working.
 
 
 ## Conditionals
@@ -319,6 +310,26 @@ while count <= 5:
 
 read more on while loops [here](https://www.w3schools.com/python/python_while_loops.asp)
 
+
+## Functions
+Reduce, Reuse, Recycle
+
+Functions make it easy to reuse code. If you find yourself repeating code you may want to turn it into a function!
+
+Example:
+This function takes in two arguments(a, b) and returns the value of them added together. 
+
+```
+def add(a, b):
+	print(a + b)
+```
+to use the function call it by writing its name and open/close parenthesis(). With arguments passed inside the parenthesis():
+
+- `add(5,5)` | output: 10
+- `add(2,5)` | output: 7
+
+In this simple example you're not saving a ton of code, but imagine a function that uses many lines of code! 
+
 ## Interact with users
 
 Getting input from the command line can be useful.
@@ -333,6 +344,12 @@ Print will output text to the terminal
 guesses = 5
 print("Guess the random number between 1 & 10. you have {} guesses!".format(guesses))
 ```
+
+## Comments
+
+use a hashtag for comments.
+
+`# this is a comment`
 
 ## Lets do some code!
 You just learned a lot! Lets put it together and build something!
@@ -357,6 +374,7 @@ What are some ideas for improvements?
 - data validation
 - input the number range from popup
 - output grammar depending on number of tries
+
 
 
 # YOU DID IT! YOU'RE NOW A PROGRAMMER!
