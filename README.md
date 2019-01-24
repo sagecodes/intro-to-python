@@ -54,12 +54,17 @@ You can't learn EVERYTHING in ~2 hours. But you can learn enough to get excited 
 
 
 ## About me:
-Hello I'm [Sage Elliott](http://sageelliott.com/). I'm a Technology Evangelist here at Galvanize! Previously I've worked as a software and hardware engineer with Startups and Agencies in Seattle, WA and Melbourne, FL. I love technology! 
+I'm [Sage Elliott](http://sageelliott.com/). I'm a Technology Evangelist at Galvanize Seattle. In the past decade I've worked as a software and hardware engineer with mostly with Startups and Agencies in Seattle and Central Florida. I love technology! I'm currently learning more about Deep Learning & Computer Vision. If you're looking for a job or next steps in learning, let me know!
+
+*caveat* I'm not an Galvanize instructor, They have much more industry experience and are better at teaching difficult topics!
+
+If you have an event you would like to see or put on let me know! I'm always looking for ideas. Talk to me after the workshop or find me online at one of these:
 
 - Website: [sageelliott.com](http://sageelliott.com/)
 - Twitter: [@sagecodes](https://twitter.com/@sagecodes)
 - LinkedIn: [sageelliott](https://www.linkedin.com/in/sageelliott/) 
 - Email: [sage.elliott@galvanize.com](mailto:sage.elliott@galvanize.com)
+
 
 
 ## About you!
@@ -400,69 +405,50 @@ More learning resources:
 
 - [Udacity Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) | Free
 
+
+
+## Upcoming Events!
+
+We host so many events! check out our [calendar](https://www.galvanize.com/events)
+
+Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) meetup for all upcoming events.
+
+[JavaScript Mini Bootcamp: Fundamentals II](https://www.eventbrite.com/e/javascript-mini-bootcamp-fundamentals-ii-tickets-54008664369) - 1/26/19 10am - 4:30pm
+
+[Web Scraping with Python](https://www.eventbrite.com/e/intro-to-web-scraping-with-python-tickets-540100886292) - 1/31/19 6:30 - 8:30pm
+
 ## What is Galvanize?
 ###### We are a community!
 
 
-## Upcoming Events
-
-#### Meetups and Free workshops!
- 
-We host sooo many events! check out out [calendar](https://www.galvanize.com/seattle/events)
-
-- [Learn how to write JavaScript the Modern way with ES6](https://www.eventbrite.com/e/learn-how-to-write-javascript-the-modern-way-with-es6-tickets-51782042483) - Thursday, November 1, 2018
-6:30 PM to 8:30 PM
-
-- [How to Present your Project | Giving a Technical Talk](https://www.eventbrite.com/e/how-to-present-your-project-giving-a-technical-talk-tickets-51783298239) - Thursday, November 8, 2018
-6:30 PM to 8:30 PM
-
-- [JavaScript 101](https://www.eventbrite.com/e/learn-javascript-and-prepare-for-your-technical-interview-javascript-101-tickets-51774189996) - Wednesday, November 7, 2018 6:30 PM & Wednesday, November 28, 2018 6:30 PM
-
-- [JavaScript Fundamentals Mini Bootcamp 1](https://www.eventbrite.com/e/learn-javascript-and-prepare-for-your-technical-interview-javascript-fundamentals-mini-bootcamp-1-tickets-51775610244) - Saturday, November 10, 2018 10:00 AM & Saturday, December 1, 2018 10:00 AM
-
-- [Javascript Functions and Scopes](https://www.eventbrite.com/e/learn-javascript-and-prepare-for-your-technical-interview-javascript-functions-and-scopes-tickets-51775970321) - Wednesday, November 14, 2018 6:30 PM & Wednesday, December 5, 2018 6:30 PM
-
-- [JavaScript Fundamentals Mini Bootcamp 2](https://www.eventbrite.com/e/learn-javascript-and-prepare-for-your-technical-interview-javascript-fundamentals-mini-bootcamp-2-tickets-51776185966) - Saturday, November 17, 2018 10:00 AM & Saturday, December 8, 2018 10:00 AM
-
-- [PuPPy Programming Night](https://www.meetup.com/PSPPython/events/zdzrxpyxnbhc/) - Every Thusday 6:30pm
-
-- [Practicing Coding Interviews](https://www.meetup.com/PSPPython/events/pmqfjqyxnbmc/) - Every Monday 6:30pm
-
-
-
-
-I post a weekly list of meetups I think I awesome in Seattle [here](http://sageelliott.com/meetups/).
-
-
 #### Immersive Bootcamp
-- [Data Science](https://www.galvanize.com/seattle/data-science) - Jan22 - Apr19 & May6 - Aug2
 
-- [Software Engineer](https://www.galvanize.com/seattle/web-development) - Jan7 - May17 & Feb25 - Jul5
+- [Data Science](https://www.galvanize.com/data-science) - 1/22/19 - 4/19/19
+- [Software Engineer](https://www.galvanize.com/web-development) - 2/9/19 - 5/17/19
 
 #### Part-Time Courses
-- [Data Analytics](https://www.galvanize.com/seattle/data-analytics) - Jan22 - Apr11
 
-- [Data Science Fundamentals](https://www.galvanize.com/seattle/data-science-fundamentals) - Feb20 - Mar29
-
-- [Hack Reactor Structured Study Program](https://getcoding.hackreactor.com/ssp-overview/?utm_source=Galvanize&utm_medium=Part-Time-Courses&utm_campaign=SSP) - November 5 & November 12
+- [Data Analytics](https://www.galvanize.com/part-time/data-analytics) 2/12/19 - 5/2/19
+- [Python Fundamentals](https://www.galvanize.com/part-time/data-science-fundamentals) - 2/20/19 - 3/29/19
 
 #### Co-working Space
+
 [work in our building!](https://www.galvanize.com/entrepreneur)
 
+#### We are a community
+
+## Questions
+
+Please feel free to reach out to me with any questions! Let me know what you're planning to do next and how I can help!
 
 
-## Questions:
-Please feel free to reach out to me with any questions!
-
+- Website: [sageelliott.com](http://sageelliott.com/)
 - Twitter: [@sagecodes](https://twitter.com/@sagecodes)
 - LinkedIn: [sageelliott](https://www.linkedin.com/in/sageelliott/) 
 - Email: [sage.elliott@galvanize.com](mailto:sage.elliott@galvanize.com)
 
-#### About the Instructors
+Questions about education at Galvanize SF email [learn@galvanize.com](mailto:learn@galvanize.com)
 
-[Sage Elliott](https://www.linkedin.com/in/sageelliott/) is a technology evangelist for Galvanize based in Seattle. Previously he worked as a Software and hardware engineer for startup around Seattle WA and Melbourne Fl.
-
-You can email him at [sage.elliott@galvanize.com](mailto:age.elliott@galvanize.com) or tweet [@sagecodes](https://twitter.com/sagecodes) for any further questions.
 
 
 
