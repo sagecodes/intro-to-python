@@ -52,6 +52,9 @@ You can't learn EVERYTHING in ~2 hours. But you can learn enough to get excited 
 - Feel free to move ahead
 - Be patient and nice
 
+### Challenges:
+Get the most out of this workkshop! We'll occasionally do a "CHALLENGE" where I give you an exercise to do in several minutes. It can be even more effective to partner up with someome next to you, but you can work on your own if you want. No pressure to solve the challenge. I'll share how I would solve it after the time is up.
+
 
 ## About me:
 I'm [Sage Elliott](http://sageelliott.com/). I'm a Technology Evangelist at Galvanize Seattle. In the past decade I've worked as a software and hardware engineer with mostly with Startups and Agencies in Seattle and Central Florida. I love technology! I'm currently learning more about Deep Learning & Computer Vision. If you're looking for a job or next steps in learning, let me know!
@@ -146,6 +149,15 @@ its common in programming languages to have a keyword before the variable such a
 - `twitter = "@sagecodes";`
 - `score = 0;`
 
+--------
+
+### Challenge:
+
+Create a variable called `name` and assign it your name.
+Use the `print()` function to print out the variable value.
+
+-------
+
 ### Data Types:
 We're going to stick with the basics, so We wont be going over EVERY data type in Python, but you you can read a more comprehensive list [here](https://docs.python.org/3/library/stdtypes.html#dict).  
 
@@ -157,12 +169,13 @@ Numbers are written just like you would think. Just the number! No quotes or sym
 
 `25` `100`
 
-Multiple, Add, Divide, Compare
+Multiple, Add, Divide, Compare, remainder
 
 - `5 * 5` | output: 25
 - `5 + 5` | output: 10
 - `8 / 2` | output: 4
 - `8 > 2` | output: true
+- `8 % 8` | output: 0 
 
 #### Strings:
 Strings can be a collection of letters, symbols and/or numbers. They are made by surrounding the content with quotation marks.
@@ -173,6 +186,40 @@ Strings can be a collection of letters, symbols and/or numbers. They are made by
 can use double: ", Single ' or tripple(3 singles) ''' quotes for strings.
 
 Can we add strings together? Try it out!
+
+##### Variables in strings
+
+How can we add variables into our strings
+
+```
+varOne = "VAR1"
+varTwo = "VAR2"
+varThree = "VAR3"
+
+# concatinaton 
+string1 =  "this is a string" + varOne + "More string"
+
+# More common way
+string2 =  "this is a string {} More {} string".format(varOne, varTwo)
+
+# you can specify which variable is used where
+string3 =  "varTwo is: {1} varOne is: {0}".format(varOne, varTwo)
+
+print(string3)
+
+```
+
+```
+intOne = 5
+floatOne = 6.6222
+boolOne = True
+
+
+# This format is helpful because it knows you want a string value for other types of data. 
+string2 =  "These all get converted when using this format {} {} {}".format(intOne, floatOne, boolOne)
+
+print(string2)
+```
 
 
 #### Booleans:
@@ -192,13 +239,39 @@ tvshows = ['West World','Mr. Robot', 'Game of Thrones']
 print(tvshows)
 ```
 
+##### Add to an array
+
+```
+tvshows.append("FireFly")
+print(tvshows)
+```
+
+##### Remove from an array
+
+```
+tvshows.remove("Game of Thrones")
+print(tvshows)
+```
+
+Or if you want to get rid of a certain part of the list
+
+```
+tvshows.remove(tvshows[0])
+print(tvshows)
+```
+
 read more about python lists[here](https://www.w3schools.com/python/python_lists.asp).
+
+#### Tuples
+ 
 
 
 #### Dictionary (Dict)
 
 Dictionaries can also be used to store values, but they are indexed. 
 
+
+```
 person =	{
   "name": "Bob",
   "age": 50,
@@ -207,9 +280,43 @@ person =	{
 print(person)
 print(person['name'])
 
+```
+
+
+##### update
+
+```
+person['name'] = "Ted"
+print(person['name'])
+```
+
+##### add
+```
+person['city'] = 'Seattle'  
+print(person)
+```
+
+##### remove
+
+```
+del person['age']
+print(person)
+```
+
 read more about python dictionaries[here](https://www.w3schools.com/python/python_dictionaries.asp).
 
+-------
+### Challenge:
+- make a list `[]` containing your favorite foods.
+- update the list adding more item
+- remove the first item from the list
 
+- Make dictionary with values about your self.
+- update one of the values
+- add a new value
+- remove one of the values
+
+-------
 
 
 
@@ -256,12 +363,20 @@ Example:
 
 ```
 
+---
+### challenge
+
+- make a variable with with a numerical value. 
+- using the `if`, `elif`, and `else` make your program print something different depending on the value in your variable.
+
+---
+
 ## Loops
-We're going to go over some of the basic loops in javascript, but yet again we're not going to cover everything, so you may want to read more about loops [here](https://www.learnpython.org/en/Loops).
+We're going to go over some of the basic loops in python, but yet again we're not going to cover everything, so you may want to read more about loops [here](https://www.learnpython.org/en/Loops).
 
 Loops are used when you want to repeat something. You can repeat the exact same thing, or change some variable and repeat the action again.
 
-two common types of loops are `for` and `while`.
+the two common types of loops are `for` and `while`.
 `for` loops are often used to run a loop a specified amount of time.
 
 `while` loops are often used to run a loop indefinitely until certain criteria are met.
@@ -315,6 +430,37 @@ while count <= 5:
 
 read more on while loops [here](https://www.w3schools.com/python/python_while_loops.asp)
 
+---
+### challenge
+[Fizzbuzz](https://en.wikipedia.org/wiki/Fizz_buzz) and variations of it is a popular interview question. 
+
+"From 1 to 100.
+
+For each multiple of 3, print "Fizz" instead of the number. 
+
+For each multiple of 5, print "Buzz" instead of the number. 
+
+For numbers which are multiples of both 3 and 5, print "FizzBuzz" instead of the number."
+
+```
+# Simple fizzbuzz example using what we've covered
+i=1
+while i <= 100:
+    if i%3==0 and i%5==0:
+        print("FizzBuzz", end="")
+    elif i%3==0:
+        print("Fizz", end="")
+    elif i%5==0:
+        print("Buzz", end="")
+    else:
+        print(i, end="")
+    print()
+    i+=1
+
+```
+
+---
+
 
 ## Functions
 Reduce, Reuse, Recycle
@@ -335,6 +481,15 @@ to use the function call it by writing its name and open/close parenthesis(). Wi
 
 In this simple example you're not saving a ton of code, but imagine a function that uses many lines of code! 
 
+Scope example?
+
+---
+### challenge
+
+
+---
+
+
 ## Interact with users
 
 Getting input from the command line can be useful.
@@ -350,11 +505,26 @@ guesses = 5
 print("Guess the random number between 1 & 10. you have {} guesses!".format(guesses))
 ```
 
+---
+### Challenge:
+
+Using the `input()` function ask a user for there name. Then print out a sentence using the name. 
+
+---
+
 ## Comments
 
 use a hashtag for comments.
 
 `# this is a comment`
+
+---
+### Challenge:
+
+If you saved your code from other challenges go back and comment what the code is doing.
+
+---
+
 
 ## Lets do some code!
 You just learned a lot! Lets put it together and build something!
@@ -383,6 +553,70 @@ What are some ideas for improvements?
 
 
 # YOU DID IT! YOU'RE NOW A PROGRAMMER!
+
+
+
+## Review:
+
+<details>
+  <summary>What is a Variable</summary>
+  
+  expain
+	
+</details>
+
+<details>
+  <summary>What are the three common ways to declare a string</summary>
+  
+  expain
+	
+</details>
+
+<details>
+  <summary>What is a Boolean?</summary>
+  
+  expain
+	
+</details>
+
+<details>
+  <summary>Question</summary>
+  
+  expain
+	
+</details>
+
+<details>
+  <summary>Question</summary>
+  
+  expain
+	
+</details>
+
+<details>
+  <summary>Question</summary>
+  
+  expain
+	
+</details>
+
+<details>
+  <summary>Question</summary>
+  
+  expain
+	
+</details>
+
+<details>
+  <summary>Question</summary>
+  
+  expain
+	
+</details>
+
+
+
+
 
 ### Welcome! :)
 

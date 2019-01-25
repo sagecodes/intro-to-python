@@ -15,9 +15,9 @@ while guess_count <= guesses:
 		break
 
 	elif guess < number:
-		guess_count = guess_count + 1
 		print("Try something higher... you have {} guesses remaining!".format(guesses - guess_count))
+		guess_count = guess_count + 1
 
 	elif guess > number:
-		guess_count = guess_count + 1
 		print("Try something lower... you have {} guesses remaining!".format(guesses - guess_count))
+		guess_count = guess_count + 1
