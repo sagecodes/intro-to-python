@@ -565,7 +565,7 @@ If you saved your code from other challenges go back and comment what the code i
 <details>
   <summary>What is a function in Python?</summary>
   
-  expain
+  A function is a chunk of code that you can reuse and pass data into
 	
 </details>
 
