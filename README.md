@@ -221,6 +221,43 @@ string2 =  "These all get converted when using this format {} {} {}".format(intO
 print(string2)
 ```
 
+##### slicing
+
+word[start:end] # items start through end-1
+word[start:]    # items start through the rest of the string
+word[:end]      # items from the beginning through end-1
+
+```
+word = "batman"
+
+print(word[1:3])
+print(word[3:])
+print(word[:3])
+
+```
+
+Fun thing with [extended slicing](https://docs.python.org/2/whatsnew/2.3.html)
+
+an easy way to reverse a string by adding a step!
+
+```
+word = "batman"
+print(word[::-1])
+
+```
+
+
+
+---
+### Challenge:
+
+- create a variable with the string "superman"
+- use slicing to only print out "super"
+- can you reverse it?
+
+---
+
+
 
 #### Booleans:
 You can think of Booleans as yes(true) and no(false)
@@ -239,6 +276,16 @@ tvshows = ['West World','Mr. Robot', 'Game of Thrones']
 print(tvshows)
 ```
 
+print single item. Index starts at zero
+
+```
+print(tvshows[0])
+```
+
+##### Update an item in an array
+```
+tvshows[0] = "killer robots"
+```
 ##### Add to an array
 
 ```
@@ -263,7 +310,15 @@ print(tvshows)
 read more about python lists[here](https://www.w3schools.com/python/python_lists.asp).
 
 #### Tuples
- 
+
+Tuples behave a lot like lists, except you can change the values
+
+
+```
+tvshows = ('West World','Mr. Robot', 'Game of Thrones')
+print(tvshows)
+```
+you cannot update tuples in your code. They will throw an error.
 
 
 #### Dictionary (Dict)
@@ -444,6 +499,48 @@ Lets break it down and solve it together!
 
 ---
 
+## Iterating
+
+Now that we know about loops lets talk a bit about iteration! 
+
+Many objects may have data we want to iterate through to do something with it. Common iterables: Strings, Lists, Dicts, tuples.
+
+String:
+
+```
+word = "hello"
+
+for x in word:
+	Print(x)
+```
+
+lists:
+
+```
+tvshows = ['West World','Mr. Robot', 'Game of Thrones']
+
+for x in tvshows:
+	print(x)
+```
+
+Dictionaries 
+
+```
+person =	{
+  "name": "Bob",
+  "age": 50,
+  "occupation": 'programmer'
+}
+
+# get the values
+for x in person:
+	print(person[x])
+	
+# get the keys
+for x in person:
+	print(x)
+	
+```
 
 ## Functions
 Reduce, Reuse, Recycle
