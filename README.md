@@ -53,7 +53,7 @@ You can't learn EVERYTHING in ~2 hours. But you can learn enough to get excited 
 - Be patient and nice
 
 ### Challenges:
-Get the most out of this workkshop! We'll occasionally do a "CHALLENGE" where I give you an exercise to do in several minutes. It can be even more effective to partner up with someome next to you, but you can work on your own if you want. No pressure to solve the challenge. I'll share how I would solve it after the time is up.
+Get the most out of this workshop! We'll occasionally do a "CHALLENGE" where I give you an exercise to do in several minutes. It can be even more effective to partner up with someone next to you, but you can work on your own if you want. No pressure to solve the challenge. I'll share how I would solve it after the time is up.
 
 
 ## About me:
@@ -84,7 +84,7 @@ Give a quick Intro!
 
 Created by Guido van Rossum and released in 1991.
 
-Python is Known ease of learning, code readability (must use code indents), and a massive ecosystem of libraries that easily expand its usefeullness is many fields.
+Python is Known ease of learning, code readability (must use code indents), and a massive ecosystem of libraries that easily expand its usefulness is many fields.
 
 Read more about the history of Python [here](https://en.wikipedia.org/wiki/Python_(programming_language)).
 
@@ -113,7 +113,7 @@ A lot of places do!
 
 #### Popular Frameworks and libraries to keep in mind
 
-When learning more about Python you'll probably see someo of these pop up as you continue to study
+When learning more about Python you'll probably see some of these pop up as you continue to study
 
 - Web
 	- Django
@@ -183,7 +183,7 @@ Strings can be a collection of letters, symbols and/or numbers. They are made by
 `"Hello, World."`
 `"CrAzy Random String 987879896jvdjvda &&(&(@*(*"`
 
-can use double: ", Single ' or tripple(3 singles) ''' quotes for strings.
+can use double: ", Single ' or triple(3 singles) ''' quotes for strings.
 
 Can we add strings together? Try it out!
 
@@ -196,7 +196,7 @@ varOne = "VAR1"
 varTwo = "VAR2"
 varThree = "VAR3"
 
-# concatinaton 
+# concatenation 
 string1 =  "this is a string" + varOne + "More string"
 
 # More common way
@@ -644,7 +644,7 @@ If you saved your code from other challenges go back and comment what the code i
 </details>
 
 <details>
-  <summary>How is a Dictionary (Dict) in pytho different than a list?</summary>
+  <summary>How is a Dictionary (Dict) in python different than a list?</summary>
   
   Dictionary has a key value pair. You usually interact with it by calling a key. `person['age']`
 	
@@ -669,12 +669,12 @@ If you saved your code from other challenges go back and comment what the code i
 <details>
   <summary>How do you make a comment in Python?</summary>
   
- # use the # infront of it
+ # use the # in front of it
 	
 </details>
 
 <details>
-  <summary>What is a conditinal in Python?</summary>
+  <summary>What is a conditional in Python?</summary>
   
  A way to check if data meets a certain condition or not. `if` `elif` `else`.
 	
