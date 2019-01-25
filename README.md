@@ -416,8 +416,6 @@ for x in info:
 
 read more on for loops [here](https://www.w3schools.com/python/python_for_loops.asp)
 
-
-
 while loop:
 
 ```
@@ -442,22 +440,7 @@ For each multiple of 5, print "Buzz" instead of the number.
 
 For numbers which are multiples of both 3 and 5, print "FizzBuzz" instead of the number."
 
-```
-# Simple fizzbuzz example using what we've covered
-i=1
-while i <= 100:
-    if i%3==0 and i%5==0:
-        print("FizzBuzz", end="")
-    elif i%3==0:
-        print("Fizz", end="")
-    elif i%5==0:
-        print("Buzz", end="")
-    else:
-        print(i, end="")
-    print()
-    i+=1
-
-```
+Lets break it down and solve it together!
 
 ---
 
@@ -486,6 +469,9 @@ Scope example?
 ---
 ### challenge
 
+Create a function that multiplies 3 numbers together and prints out the values.
+
+Make out fizzbuzz solution a function that takes an input for the range of fizzbuzz
 
 ---
 
@@ -501,8 +487,8 @@ To do that we will use the `input` function. And we want to assign that input to
 Print will output text to the terminal
 
 ```
-guesses = 5
-print("Guess the random number between 1 & 10. you have {} guesses!".format(guesses))
+guess = input("enter guess: ")
+print("Your guess was {}".format(guess))
 ```
 
 ---
@@ -524,6 +510,85 @@ use a hashtag for comments.
 If you saved your code from other challenges go back and comment what the code is doing.
 
 ---
+
+
+## Review:
+
+<details>
+  <summary>What is a Variable</summary>
+  
+  A variable is something you can store information into.
+	
+</details>
+
+<details>
+  <summary>What are the three common ways to declare a string</summary>
+  
+  'Single quotes'
+  "Double quotes"
+  '''Triple Single quotes'''
+	
+</details>
+
+<details>
+  <summary>What is a Boolean?</summary>
+  
+  A boolean can be set to True or False. Yes and No.
+	
+</details>
+
+<details>
+  <summary>What is a List in python?</summary>
+  
+  A list can store multiple values in order. 
+  
+  ls = ["apples","oranges","bannas"]
+	
+</details>
+
+<details>
+  <summary>How is a Dictionary (Dict) in pytho different than a list?</summary>
+  
+  Dictionary has a key value pair. You usually interact with it by calling a key. `person['age']`
+	
+</details>
+
+<details>
+  <summary>What the difference between a for loop and a while loop?</summary>
+  
+  for loops are usually used to loop a certain amount of times
+  
+  while loops will loop until a condition is met.
+	
+</details>
+
+<details>
+  <summary>What is a function in Python?</summary>
+  
+  expain
+	
+</details>
+
+<details>
+  <summary>How do you make a comment in Python?</summary>
+  
+ # use the # infront of it
+	
+</details>
+
+<details>
+  <summary>What is a conditinal in Python?</summary>
+  
+ A way to check if data meets a certain condition or not. `if` `elif` `else`.
+	
+</details>
+
+<details>
+  <summary>What does the `%` Modulo do?</summary>
+  
+The modulo return the remainder 
+	
+</details>
 
 
 ## Lets do some code!
@@ -553,66 +618,6 @@ What are some ideas for improvements?
 
 
 # YOU DID IT! YOU'RE NOW A PROGRAMMER!
-
-
-
-## Review:
-
-<details>
-  <summary>What is a Variable</summary>
-  
-  expain
-	
-</details>
-
-<details>
-  <summary>What are the three common ways to declare a string</summary>
-  
-  expain
-	
-</details>
-
-<details>
-  <summary>What is a Boolean?</summary>
-  
-  expain
-	
-</details>
-
-<details>
-  <summary>Question</summary>
-  
-  expain
-	
-</details>
-
-<details>
-  <summary>Question</summary>
-  
-  expain
-	
-</details>
-
-<details>
-  <summary>Question</summary>
-  
-  expain
-	
-</details>
-
-<details>
-  <summary>Question</summary>
-  
-  expain
-	
-</details>
-
-<details>
-  <summary>Question</summary>
-  
-  expain
-	
-</details>
 
 
 
