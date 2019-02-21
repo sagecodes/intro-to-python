@@ -360,6 +360,29 @@ print(person)
 
 read more about python dictionaries[here](https://www.w3schools.com/python/python_dictionaries.asp).
 
+
+
+### Lists + Dicts 
+
+
+Access a dict inside a list:
+
+```
+
+list = [{'a': 1, 'b': 2}, {'c': 3, 'd': 4}, {'e': 5, 'f': 6}]
+print(list[0]['b'])
+
+```
+
+
+Access a list inside of a dict:
+```
+
+d = {'a': 1, 'b': ["hello", "hi", "howdy"]}
+print(d['b'][0])
+
+```
+
 -------
 ### Challenge:
 - make a list `[]` containing your favorite foods.
