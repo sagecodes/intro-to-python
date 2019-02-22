@@ -57,17 +57,24 @@ Get the most out of this workshop! We'll occasionally do a "CHALLENGE" where I g
 
 
 ## About me:
-I'm [Sage Elliott](http://sageelliott.com/). I'm a Technology Evangelist at Galvanize Seattle. In the past decade I've worked as a software and hardware engineer with mostly with Startups and Agencies in Seattle and Central Florida. I love technology! I'm currently learning more about Deep Learning & Computer Vision. If you're looking for a job or next steps in learning, let me know!
 
-*caveat* I'm not an Galvanize instructor, They have much more industry experience and are better at teaching difficult topics!
+Hello I'm [Sage Elliott](http://sageelliott.com/). I'm a Technology Evangelist here at Galvanize! For the past decade I've worked as a software and hardware engineer with Startups and Agencies in Seattle, WA and Melbourne, FL. I love making things with technology! I'm Currently learning more about computer vision and deep learning deep learning!
 
-If you have an event you would like to see or put on let me know! I'm always looking for ideas. Talk to me after the workshop or find me online at one of these:
+**Note:** I'm not a Galvanize Instructor, they're way better at teaching!
 
 - Website: [sageelliott.com](http://sageelliott.com/)
 - Twitter: [@sagecodes](https://twitter.com/@sagecodes)
 - LinkedIn: [sageelliott](https://www.linkedin.com/in/sageelliott/) 
 - Email: [sage.elliott@galvanize.com](mailto:sage.elliott@galvanize.com)
 
+Reach out to me if interested in:
+
+- breaking into the tech industry 
+- learning resources
+- meetup recommendations 
+- learning more about Galvanize
+- giving me suggestions for events!
+- being friends
 
 
 ## About you!
@@ -77,6 +84,7 @@ Give a quick Intro!
 - Whats your name?
 - Whats your background?
 - Why are you interested in Python?
+
 
 ## What is Python?
 
