@@ -584,7 +584,7 @@ to use the function call it by writing its name and open/close parenthesis(). Wi
 
 In this simple example you're not saving a ton of code, but imagine a function that uses many lines of code! 
 
-Scope example?
+<!--Scope example?-->
 
 ---
 ### challenge
@@ -777,6 +777,8 @@ Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) me
 [JavaScript Mini Bootcamp: Fundamentals I](https://www.eventbrite.com/e/javascript-mini-bootcamp-fundamentals-i-tickets-54952026992) - 2/23/19 10am - 4:30pm
 
 [JavaScript 101](https://www.eventbrite.com/e/javascript-101-tickets-54952136319) - 2/27/19 6:30 - 8:30pm
+
+[Intro to data Science with python](https://www.eventbrite.com/e/intro-to-data-science-with-python-tickets-56531983685) 3/7/19 6:30 - 8:30pm
 
 ## What is Galvanize?
 
