@@ -449,6 +449,20 @@ Example:
 
 ```
 
+### Multiple Conditionals
+
+Use the keyword `and` or `or` between muliple conditionals. 
+
+`or` if you want to run code when either condition is met
+
+`if i == 0 or i == 1:`
+
+`and` if you want to run the code when all conditions are met.
+
+`if i == 0 and x == 4:`
+
+
+
 ---
 ### challenge
 
@@ -481,6 +495,7 @@ for x in range(5):
 For loops are often used to loop through variables containing lists and dicts to get the individual values stored in them. 
 
 Try running these:
+
 ```
 arr = [1,"hi",6,6]
 for x in arr:
