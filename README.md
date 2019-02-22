@@ -612,7 +612,7 @@ In this simple example you're not saving a ton of code, but imagine a function t
 ---
 ### challenge
 
-Create a function that multiplies 3 numbers together and prints out the values.
+Create a function that multiplies 2 numbers together and prints out the values.
 
 Make out fizzbuzz solution a function that takes an input for the range of fizzbuzz
 
