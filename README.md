@@ -734,7 +734,7 @@ We're going to build a number guessing game using:
 - functions
 - dialog boxes
 
-If you get stuck or want to look ahead at the completed project you can view it [here](https://repl.it/@SageElliott/pythonGuessingGame).
+If you get stuck or want to look ahead at the completed project you can view it [here](https://repl.it/@SageElliott/pythonGuessingGame). NOTE: there may be a few bugs in this version for you to fix!
 
 What are some ideas for improvements? 
 
