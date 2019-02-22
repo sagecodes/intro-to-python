@@ -764,6 +764,8 @@ More learning resources:
 
 - [Udacity Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) | Free
 
+- [Hack reactor Premium Prep](https://www.galvanize.com/gift-of-code?utm_medium=Seattle&utm_source=Meetup&utm_campaign=LearnToCode) FREE until 2/24 (usually $250) - JavaScript focused
+
 
 
 ## Upcoming Events!
@@ -772,29 +774,28 @@ We host so many events! check out our [calendar](https://www.galvanize.com/event
 
 Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) meetup for all upcoming events.
 
-[JavaScript Mini Bootcamp: Fundamentals II](https://www.eventbrite.com/e/javascript-mini-bootcamp-fundamentals-ii-tickets-54008664369) - 1/26/19 10am - 4:30pm
+[JavaScript Mini Bootcamp: Fundamentals I](https://www.eventbrite.com/e/javascript-mini-bootcamp-fundamentals-i-tickets-54952026992) - 2/23/19 10am - 4:30pm
 
-[Web Scraping with Python](https://www.eventbrite.com/e/intro-to-web-scraping-with-python-tickets-540100886292) - 1/31/19 6:30 - 8:30pm
+[JavaScript 101](https://www.eventbrite.com/e/javascript-101-tickets-54952136319) - 2/27/19 6:30 - 8:30pm
 
 ## What is Galvanize?
-###### We are a community!
-
 
 #### Immersive Bootcamp
 
-- [Data Science](https://www.galvanize.com/data-science) - 1/22/19 - 4/19/19
-- [Software Engineer](https://www.galvanize.com/web-development) - 2/9/19 - 5/17/19
+
+- [Software Engineer](https://www.galvanize.com/web-development) - 4/8/19 - 7/5/19
+- [Data Science](https://www.galvanize.com/data-science) - 5/6/19 - 8/6/19
+
 
 #### Part-Time Courses
 
-- [Data Analytics](https://www.galvanize.com/part-time/data-analytics) 2/12/19 - 5/2/19
-- [Python Fundamentals](https://www.galvanize.com/part-time/data-science-fundamentals) - 2/20/19 - 3/29/19
+- [Intro to Data Science](https://www.galvanize.com/part-time/intro-to-data-science) - 3/4/19 - 4/24/19
+
+- [Digital Marketing](https://www.galvanize.com/part-time/digital-marketing) - 4/15/19 - 6/7/19
 
 #### Co-working Space
 
 [work in our building!](https://www.galvanize.com/entrepreneur)
-
-#### We are a community
 
 ## Questions
 
