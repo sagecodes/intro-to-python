@@ -6,7 +6,7 @@ Get to this repo by typing in URL: **py.sage.codes**
 
 ### FAQ: 
 
-- WIFI: `Galvanize Guest Seattle` | Password: beapineapple
+- WIFI: `Galvanize Guest Seattle` | Password is posted on the wall
 - Bathrooms: Behind you down the hall to the left
 - Kitchen outside back classroom door with Coffee & Tea!
 - Snacks + water in back of room
@@ -770,6 +770,23 @@ What are some ideas for improvements?
 
 ### Keep learning!
 
+
+------
+
+Learn more Python and much more with Galvanize Data Science Premium Prep! Currently free if you sign up now! [http://bit.ly/2u0cahU](http://bit.ly/2u0cahU)
+
+Live one-on-one staff support during class hours
+
+Expert-led Python, statistics and probability curriculum
+
+Group feedback on course exercises
+
+Personalized progress updates
+[http://bit.ly/2u0cahU](http://bit.ly/2u0cahU)
+
+-------
+
+
 [PuPPy](https://www.meetup.com/PSPPython/) is an awesome python group in Seattle! 
 
 More learning resources:
@@ -793,15 +810,14 @@ More learning resources:
 
 ## Upcoming Events!
 
-We host so many events! check out our [calendar](https://www.galvanize.com/events)
-
 Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) meetup for all upcoming events.
 
-[JavaScript Mini Bootcamp: Fundamentals I](https://www.eventbrite.com/e/javascript-mini-bootcamp-fundamentals-i-tickets-54952026992) - 2/23/19 10am - 4:30pm
 
-[JavaScript 101](https://www.eventbrite.com/e/javascript-101-tickets-54952136319) - 2/27/19 6:30 - 8:30pm
+- Intro to Web Development with HTML & CSS - 3/27 6:30 - 8:30pm
+- Intro to Machine Learning with Python - 3/28 6:30 - 8:30pm
+- JavaScript Mini Bootcamp: Fundamentals II - 3/30 10am - 4:30pm
+- Intro to Data Analytics with Tableau - 4/04 6:30 - 8:30pm
 
-[Intro to data Science with python](https://www.eventbrite.com/e/intro-to-data-science-with-python-tickets-56531983685) 3/7/19 6:30 - 8:30pm
 
 ## What is Galvanize?
 
