@@ -2,6 +2,9 @@
 
 Brought to you by Galvanize. Learn more about the way we teach at [galvanize.com](http://galvanize.com).
 
+
+Learn more Python and much more with Galvanize Data Science Premium Prep! Currently free if you sign up now! [http://bit.ly/2u0cahU](http://bit.ly/2u0cahU)
+
 Get to this repo by typing in URL: **py.sage.codes**
 
 ### FAQ: 
