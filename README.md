@@ -146,6 +146,11 @@ Also [Google Colab](https://colab.research.google.com/notebooks/welcome.ipynb#re
 
 ## Python Basics:
 
+
+## [<< Follow along in this google colab >>](https://colab.research.google.com/drive/1noy2RT_95Hf_8V89eVCvm030zSSrJ2f_) 
+
+
+
 ### Printing
 `print("Hello, Galvanize")`
 
@@ -157,7 +162,7 @@ Think of it as naming a piece of data.
 
 its common in programming languages to have a keyword before the variable such as `var` or `int`, but python does not need this. 
 
-- `twitter = "@sagecodes";`
+- `twitter = "@sagecodes"`
 - `score = 0;`
 
 --------
@@ -317,6 +322,8 @@ Or if you want to get rid of a certain part of the list
 tvshows.remove(tvshows[0])
 print(tvshows)
 ```
+
+Can we do slicing on lists? Try it out!
 
 read more about python lists[here](https://www.w3schools.com/python/python_lists.asp).
 
