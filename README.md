@@ -1,15 +1,12 @@
 # Learn to Code: Introduction to Python
 
-Brought to you by Galvanize. Learn more about the way we teach at [galvanize.com](http://galvanize.com).
-
-
-Learn more Python and much more with Galvanize Data Science Premium Prep! Currently free if you sign up now! [http://bit.ly/2u0cahU](http://bit.ly/2u0cahU)
+Learn more Python and much more with the free Galvanize Data Science Prep course! [http://bit.ly/gprepdata](http://bit.ly/gprepdata)
 
 Get to this repo by typing in URL: **py.sage.codes**
 
 ### FAQ: 
 
-- WIFI: `Galvanize Guest Seattle` | Password is posted on the wall
+- WIFI: `Galvanize Guest` | Password is posted on the wall
 - Bathrooms: Behind you down the hall to the left
 - Kitchen outside back classroom door with Coffee & Tea!
 - Snacks + water in back of room
@@ -39,19 +36,12 @@ You can't learn EVERYTHING in ~2 hours. But you can learn enough to get excited 
 - Feel free to move ahead
 - Be patient and nice
 
-## Overview
-The goal of this brief course is to provide you with a fun introduction to the world of development with Python.
 
 #### Here's what we'll be doing:
 * Overview of basic Python and programming concepts
-* Building a simple application using Python
-* Playing around and break things
+* Solve Problems in Python
+* Play around and break things
 
-
-#### What is programming?
-Programming is giving your computer a set of instructions to perform a task. 
-
-This sounds simple but it can get complicated! 
 
 ### Challenges:
 Get the most out of this workshop! We'll occasionally do a "CHALLENGE" where I give you an exercise to do in several minutes. It can be even more effective to partner up with someone next to you, but you can work on your own if you want. No pressure to solve the challenge. I'll share how I would solve it after the time is up.
@@ -87,7 +77,26 @@ Give a quick Intro!
 - Why are you interested in Python?
 
 
+### FAQ repeat for anyone who just walked in: 
+- Get to this repo by typing in URL: **py.sage.codes**
+- WIFI: `Galvanize Guest` | Password is posted on the wall
+- Bathrooms: Behind you down the hall to the left
+- Kitchen outside back classroom door with Coffee & Tea!
+- Snacks + water in back of room
+
+You need: 
+
+* A web browser to see what we're working on as others see it (Recommend Google Chrome: [chrome.google.com] (http://chrome.google.com))
+* We will be using an online text editor for this workshop called Google colab. You can check it out [here](https://colab.research.google.com). Use a google account to sign in. 
+
 ## What is Python?
+
+Python is a programming language
+
+#### What is programming?
+Programming is giving your computer a set of instructions to perform a task. 
+
+This sounds simple but it can get complicated! 
 
 ### A VERY brief history
 
@@ -151,7 +160,7 @@ Or type the url **pylab.sage.codes**
 
 
 
-### Printing
+<!--### Printing
 `print("Hello, Galvanize")`
 
 ### Variables:
@@ -768,11 +777,13 @@ What are some ideas for improvements?
 - input the number range from popup
 - output grammar depending on number of tries
 
+-->
+
+
+
 
 
 # YOU DID IT! YOU'RE NOW A PROGRAMMER!
-
-
 
 
 
@@ -783,21 +794,11 @@ What are some ideas for improvements?
 
 ------
 
-Learn more Python and much more with Galvanize Data Science Premium Prep! Currently free if you sign up now! [http://bit.ly/2u0cahU](http://bit.ly/2u0cahU)
-
-Live one-on-one staff support during class hours
-
-Expert-led Python, statistics and probability curriculum
-
-Group feedback on course exercises
-
-Personalized progress updates
-[http://bit.ly/2u0cahU](http://bit.ly/2u0cahU)
+Learn more Python and much more with the free Galvanize Data Science Prep course! [http://bit.ly/gprepdata](http://bit.ly/gprepdata)
 
 -------
 
 
-[PuPPy](https://www.meetup.com/PSPPython/) is an awesome python group in Seattle! 
 
 More learning resources:
 
@@ -814,7 +815,10 @@ More learning resources:
 
 - [Udacity Programming Foundations with Python](https://www.udacity.com/course/programming-foundations-with-python--ud036) | Free
 
-- [Hack reactor Premium Prep](https://www.galvanize.com/gift-of-code?utm_medium=Seattle&utm_source=Meetup&utm_campaign=LearnToCode) FREE until 2/24 (usually $250) - JavaScript focused
+- [Hack reactor Prep](http://bit.ly/gsoftprep) - FREE
+
+- [PuPPy](https://www.meetup.com/PSPPython/) is an awesome python group in Seattle! 
+
 
 
 
@@ -822,35 +826,44 @@ More learning resources:
 
 Visit the [Learn to code Seattle](https://www.meetup.com/Learn-Code-Seattle/) meetup for all upcoming events.
 
+More events will be posted for June soon! 
 
-- [JavaScript Mini Bootcamp: Fundamentals I](https://www.eventbrite.com/e/javascript-mini-bootcamp-fundamentals-i-tickets-58877925460) - 4/13 10am - 430pm
-- [JavaScript 101](https://www.eventbrite.com/e/javascript-101-tickets-58878009712) - 4/17 6:30pm 
-- [Intro to Data Science with Python](https://www.eventbrite.com/e/intro-to-data-science-with-python-tickets-58878207303) - 4/18 630pm
-- [Intro to React](https://www.eventbrite.com/e/intro-to-react-tickets-58878540299) - 4/24 6:30pm
-- [SQL 101](https://www.eventbrite.com/e/sql-101-tickets-58878275507) - 4/25 630pm
-- [JavaScript Mini Bootcamp: Fundamentals II](https://www.eventbrite.com/e/javascript-mini-bootcamp-fundamentals-ii-tickets-58878315627) - 4/27 10am - 430pm
-- [Intro to Web Scraping for Data Science](https://www.eventbrite.com/e/intro-to-web-scraping-with-python-for-data-science-tickets-58878488143) 6:30pm
+
+# What is Galvanize?
+
+> We create a technology ecosystem for learners, entrepreneurs, startups and established companies to meet the needs of the rapidly changing digital world.
+
+![](https://github.com/sagecodes/intro-data-science/raw/master/campus.png)
+
+- Education
+- Co-Working
+- Events
+- Enterprise
+
 
 ## Galvanize Classes
 
 #### Immersive Bootcamp
 
+Transform your career with our 13 week immersive programs
 
-- [Software Engineer](https://www.galvanize.com/web-development) - 4/15/19 - 8/23/19
-- [Data Science](https://www.galvanize.com/data-science) - 5/6/19 - 8/2/19
+- [Software Engineer](http://bit.ly/seawebdev) - 6/3/19 - 10/11/19
+- [Data Science](http://bit.ly/seadatascience) - 8/19/19 - 11/15/19
 
 
 #### Part-Time Courses
 
-- [Intro to Data Science](https://www.galvanize.com/part-time/intro-to-data-science) - 5/7/19 - 6/27/19
+Learn while working with out evening part-time classes
 
-- [Digital Marketing](https://www.galvanize.com/part-time/digital-marketing) - 5/13/19 - 7/3/19
 
-- [Data Analytics](https://www.galvanize.com/part-time/data-analytics) - 5/6/19 - 7/24/19
+- [Python Fundamentals](http://bit.ly/seapyfun) - 6/4/19 - 7/11/19
+
+- [Data Analytics](http://bit.ly/seadataa) - 6/3/19 - 8/21/19
 
 #### Co-working Space
 
 [work in our building!](https://www.galvanize.com/entrepreneur)
+
 
 ## Questions
 
@@ -861,6 +874,7 @@ Please feel free to reach out to me with any questions! Let me know what you're 
 - Twitter: [@sagecodes](https://twitter.com/@sagecodes)
 - LinkedIn: [sageelliott](https://www.linkedin.com/in/sageelliott/) 
 - Email: [sage.elliott@galvanize.com](mailto:sage.elliott@galvanize.com)
+
 
 
 
