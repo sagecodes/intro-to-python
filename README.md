@@ -17,6 +17,7 @@ Get to this repo by typing in URL: **py.sage.codes**
 #### Please set up the following:
 
 * A web browser to see what we're working on as others see it (Recommend Google Chrome: [chrome.google.com] (http://chrome.google.com))
+
 * We will be using an online text editor for this workshop called Google colab. You can check it out [here](https://colab.research.google.com). Use a google account to sign in. 
 
 Well... that was easy! 
@@ -306,20 +307,22 @@ More events will be posted for June soon!
 
 #### Immersive Bootcamp
 
-Transform your career with our 13 week immersive programs
+Transform your career with our immersive programs
 
-- [Software Engineer](http://bit.ly/seawebdev) - 6/3/19 - 10/11/19
-- [Data Science](http://bit.ly/seadatascience) - 8/19/19 - 11/15/19
+- [Software Engineer](http://bit.ly/seawebdev) - 10/21/19 & 2/10/2020
+- [Data Science](http://bit.ly/seadatascience) - 12/2/19 & 3/16/2020
+
+Remote options:
+
+check out [Galvanize.com](https://www.galvanize.com/)
 
 
 #### Part-Time Courses
 
 Learn while working with out evening part-time classes
 
+[Galvanize.com](https://www.galvanize.com/)
 
-- [Python Fundamentals](http://bit.ly/seapyfun) - 6/4/19 - 7/11/19
-
-- [Data Analytics](http://bit.ly/seadataa) - 6/3/19 - 8/21/19
 
 #### Co-working Space
 
